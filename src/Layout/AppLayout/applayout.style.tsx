@@ -92,7 +92,7 @@ export const StyledAppNavList = styled.ul`
           background: #f2f9ff;
 
           &:before {
-            display: "block";
+            display: block";
           }
 
           svg {
